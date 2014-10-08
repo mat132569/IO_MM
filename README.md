@@ -1,4 +1,4 @@
 IO_MM
 =====
 
-Inżynieria Oprogramowania - grupa 4
+Inżynieria Oprogramowania - grupa 3
