@@ -35,9 +35,9 @@ OR
 
 
 # PROJEKT
-1.diagram przypadków użycia:
+1. diagram przypadków użycia:
 * kto korzysta:
-* bibliotekarz - aktor ogólny, możnaa uszczegółowić na takiego który może wyporzyczać i przyjmować(młodszy), i taki który może *wprowadzać i usuwać z bazy(starszy)
+* bibliotekarz - aktor ogólny, możnaa uszczegółowić na takiego który może wyporzyczać i przyjmować(młodszy), i taki który * może *wprowadzać i usuwać z bazy(starszy)
 * użytkownik
 * np.dziakanat
 2. diagram hierarchi funkcji,(hierarchiczny)
@@ -47,7 +47,7 @@ OR
 
 
 
-1.sklep internetowy
+1. sklep internetowy
 * może mieć 3 grupy aktorów.
 * administrator,klient, sprzedawca
 2. biblioteka/ wypożyczalnia
